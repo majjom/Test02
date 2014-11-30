@@ -18,7 +18,7 @@ public class MyDialogFragment extends DialogFragment {
 
         theDialog.setTitle("sample dialog");
 
-        theDialog.setMessage("hello i am a dialog");
+        theDialog.setMessage("hello i am a dialog 2");
 
         theDialog.setPositiveButton("OK", new DialogInterface.OnClickListener(){
             @Override
